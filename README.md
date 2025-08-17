@@ -177,8 +177,8 @@ i  hosting[futravif-controler-estudent]: releasing new version...
 
 ✔ Deploy complete!
 
-Project Console: https://console.firebase.google.com/project/futravif-controler-estudent
-Hosting URL: https://futravif-controler-estudent.web.app
+Project Console: https://console.firebase.google.com/project/Tu- proyecto
+Hosting URL: https://Tu proyecto
 ```
 
 ---
